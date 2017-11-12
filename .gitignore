@@ -2,7 +2,7 @@
 .#*
 *-stamp
 /*.yaml
-/*.yml
+# /*.yml
 /*.rules
 *.exe
 
